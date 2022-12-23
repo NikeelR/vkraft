@@ -1,23 +1,4 @@
-import * as React from "react";
-import "./App.css";
-import vector5 from "./assets/vector5.svg";
-import unnamed1 from "./assets/unnamed1.svg";
-import vector11 from "./assets/vector11.svg";
-import vector7 from "./assets/vector7.svg";
-import group1 from "./assets/group1.svg";
-import vector9 from "./assets/vector9.svg";
-import vector3 from "./assets/vector3.svg";
-import swjijxddvuvzv from "./assets/swjijxddvuvzv.svg";
-import vector4 from "./assets/vector4.svg";
-import vKraftLogo120X120 from "./assets/vKraftLogo120X120.png";
-import vector2 from "./assets/vector2.svg";
-import vector6 from "./assets/vector6.svg";
-import vector from "./assets/vector.svg";
-import vector8 from "./assets/vector8.svg";
-import vector10 from "./assets/vector10.svg";
-import rectangle2 from "./assets/rectangle2.svg";
-import ellipse1 from "./assets/ellipse1.svg";
-import Vector from "./components/Vector";
+
 const App = () => {
   const propsData = {};
   return (
