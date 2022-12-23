@@ -1,16 +1,30 @@
-
+import * as React from "react";
+import "./App.css";
+import vector7 from "./assets/vector7.svg";
+import vKraftLogo120X120 from "./assets/vKraftLogo120X120.png";
+import vector3 from "./assets/vector3.svg";
+import vector2 from "./assets/vector2.svg";
+import rectangle2 from "./assets/rectangle2.svg";
+import vector11 from "./assets/vector11.svg";
+import vector10 from "./assets/vector10.svg";
+import vector4 from "./assets/vector4.svg";
+import unnamed1 from "./assets/unnamed1.svg";
+import vector8 from "./assets/vector8.svg";
+import vector from "./assets/vector.svg";
+import vector6 from "./assets/vector6.svg";
+import vector5 from "./assets/vector5.svg";
+import group1 from "./assets/group1.svg";
+import vector9 from "./assets/vector9.svg";
+import ellipse1 from "./assets/ellipse1.svg";
+import soytdidjcdzwz from "./assets/soytdidjcdzwz.svg";
 const App = () => {
-  const propsData = {};
   return (
     <div className="desktop-1">
       <div className="rectangle-1">
         <img className="vector-7" src={vector7} />
-        <div className="flex-container">
-          <Vector className="vector-instance-1" {...propsData.vector} />
-          <span className="num-91-91-080-64646">
-            +91 91 080 64646 &#x2F; 98453 16542
-          </span>
-        </div>
+        <span className="num-91-91-080-64646">
+          +91 91 080 64646 &#x2F; 98453 16542
+        </span>
         <img className="vector-9" src={vector9} />
         <span className="vkraftyahoocom">vkraft@yahoo.com</span>
         <img className="vector-3" src={vector3} />
@@ -22,7 +36,7 @@ const App = () => {
       </div>
       <img className="v-kraft-logo-120-x-120" src={vKraftLogo120X120} />
       <div className="rectangle-9">
-        <div className="flex-container-1">
+        <div className="flex-container">
           <img className="rectangle-2" src={rectangle2} />
           <div className="cat-absolute-container">
             <span className="v-kraft">V Kraft</span>
@@ -36,18 +50,18 @@ const App = () => {
             <div className="rectangle-8">
               <span className="login-sign-up">Login &#x2F; Sign Up</span>
             </div>
-            <div className="flex-container-2">
+            <div className="flex-container-1">
               <img className="vector-10" src={vector10} />
               <img className="vector-11" src={vector11} />
             </div>
           </div>
           <img className="ellipse-1" src={ellipse1} />
           <div className="cat-absolute-container-1">
-            <span className="gxscnlxlrtmwk">1</span>
+            <span className="zhddbzlucksox">1</span>
           </div>
         </div>
-        <div className="flex-container-3">
-          <img className="swjijxddvuvzv" src={swjijxddvuvzv} />
+        <div className="flex-container-2">
+          <img className="soytdidjcdzwz" src={soytdidjcdzwz} />
           <div className="cat-absolute-container-2">
             <div className="cat-absolute-container-3">
               <span className="providing-best-susta">
