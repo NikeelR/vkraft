@@ -1,6 +1,6 @@
 import * as React from "react";
 import "./App.css";
-import "./styles.scss";
+import "./styles.css";
 import vector10 from "./assets/vector10.svg";
 import vector7 from "./assets/vector7.svg";
 import vector2 from "./assets/vector2.svg";
